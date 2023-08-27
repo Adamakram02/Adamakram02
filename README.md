@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adamakram02&label=Profile%20views&color=0e75b6&style=flat" alt="adamakram02" /> </p>
 
 
-- 🔭 I’m currently working on **educational center**
+
 
 - 🌱 I’m currently learning **web technologies**
 
